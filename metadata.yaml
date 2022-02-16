@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
     wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Castle, Agnes and Egerton
     gutenberg_agent_id: '54182'
     url: http://www.gutenberg.org/2009/agents/54182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67263#Hienoston-huvinaytelma
 gutenberg_issued: '2022-01-28'
 identifiers:
   gutenberg: '67263'
